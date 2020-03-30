@@ -1,1 +1,4 @@
-console.log("Hello, Mark!");
+const jump =()=>{
+    console.log(`we are jumping`);
+    
+}
